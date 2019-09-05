@@ -94,7 +94,7 @@ Section 1
 This is a large image
 `````````````````````
 
-.. image:: http://clouddocs.f5.com/containers/v2/_images/container_connectors_north-south.png
+.. image:: https://clouddocs.f5.com/containers/v2/_images/container_connectors_north-south.png
 
 
    
